@@ -4,11 +4,3 @@
     <th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AshNewar&langs_count=12&layout=compact&hide=jupyter%20notebook,html&theme=radical"></th>
   </tr>
 
-
-
-
-
-
-
-
-I am sexy
